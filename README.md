@@ -1,4 +1,3 @@
-# hospitalPatient_record_dashboard
 
 # Hospital Patient Record Dashboard
 
